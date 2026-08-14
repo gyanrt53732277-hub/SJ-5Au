@@ -1,4 +1,4 @@
-// Emits the voteApproval verification key, plus one real proof and its public
+// Emits the voteApproval verification key, plus one real proof and its public 
 // signals, in the exact byte layout the Soroban BN254 host functions expect.
 //
 // Serialization (Ethereum-compatible, per soroban-sdk's Bn254G2Affine docs):
