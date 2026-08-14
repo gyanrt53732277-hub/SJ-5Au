@@ -3,7 +3,7 @@
 // contract on a live network.
 //
 // Everything upstream of this already passes — the circuit has its own tests,
-// the verifier has its own, the vault has its own with a mock. What none of
+// the verifier has its own, the vault has its own with a mock. What none of 
 // them cover is whether the browser's byte layout agrees with the host's. It is
 // the one seam where being wrong looks like "every valid proof is rejected".
 //
