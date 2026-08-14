@@ -1,4 +1,4 @@
-// Proves the two claims that only a live network can settle:
+// Proves the two claims that only a live network can settle: 
 //
 //   1. the signer key really comes from a wallet signature, so a published
 //      commitment cannot be recomputed from public data, and
