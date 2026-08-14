@@ -1,5 +1,5 @@
 # Smart Contract — Vault
-
+ 
 ## Genel Bakış
 
 Soroban akıllı sözleşmesi ile yazılmış multi-sig vault. Signer yönetimi, işlem önerme, onay (approve-only, Gnosis Safe tarzı), ve **gizli fon dağıtımı** (Nethermind Privacy Pool entegrasyonu) içerir.
