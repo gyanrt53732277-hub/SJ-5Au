@@ -1,6 +1,6 @@
 // End-to-end real-ZK test for voteApproval: build a signer tree, prove
 // anonymous membership + nullifier, verify, and check negative paths.
-import { buildPoseidon } from "circomlibjs";
+import { buildPoseidon } from "circomlibjs"; 
 import * as snarkjs from "snarkjs";
 import { readFileSync } from "fs";
 
