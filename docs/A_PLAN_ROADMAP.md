@@ -1,4 +1,4 @@
-# A-Plan Roadmap — Safe-style Factory (one contract per vault)
+# A-Plan Roadmap — Safe-style Factory (one contract per vault) 
 
 > Goal: make each vault its OWN Soroban contract (own address, own native balance),
 > deployed by a factory — exactly like Gnosis Safe. Per-vault balance becomes free,
