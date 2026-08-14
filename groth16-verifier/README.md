@@ -1,4 +1,4 @@
-# groth16-verifier
+# groth16-verifier 
 
 On-chain Groth16 verification for `circuits/voteApproval.circom`, on BN254.
 
