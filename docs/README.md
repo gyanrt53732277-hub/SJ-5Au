@@ -1,5 +1,5 @@
 # Stellar Vault — ZK-Powered Multi-Sig Treasury
-
+ 
 > **Stellar Hacks ZK Hackathon**
 >
 > "Gnosis Safe'in Stellar versiyonu — ama oylama ve transfer gizli olabiliyor. Nethermind Privacy Pool + ZK voter identity üzerine inşa edildi."
